@@ -1,0 +1,1 @@
+So this is my very first html web building project from the odin project so im a little nervous but eager to complete this and thats it for now since the reflection on what i gained will be added after the project is done for this initial stage
