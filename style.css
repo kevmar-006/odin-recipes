@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+}
+body {
+    background-color:greenyellow;
+}
+h1 {
+    text-size: 50px;
+    font-family:"Times New Roman", Arial, Verdana;
+    font-weight: 700;
+}
+
+a {
+    font-size: 30px;
+    font-family:"Times New Roman", Arial, Verdana;
+}
