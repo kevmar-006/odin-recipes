@@ -25,9 +25,11 @@ h3 {
 }
 ul {
     font-weight: 600;
+    list-style-position: inside;
 }
 ol {
     font-weight: 600;
+    list-style-position: inside;
 }
 img {
     display: block;
